@@ -61,4 +61,4 @@ Run Wasabi with `dotnet run` from the `WalletWasabi.Fluent.Desktop` folder.
 
 ```sh
 git pull
-```
+``` 
